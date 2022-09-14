@@ -1,0 +1,15 @@
+body {
+  background: #fc9696;
+}
+
+p {
+  color: black;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+button {
+  border-radius: 8px;
+}
